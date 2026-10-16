@@ -17,6 +17,6 @@
   "cupLeagueId": 1306,
   "push": {
     "server": "https://galil-push-north.mozesor.workers.dev",
-    "vapidPublicKey": ""
+    "vapidPublicKey": "BIa1p4fEzOH1d6Z4bVPPlcZlM5bJILGMgWnf1JFswMpCDIZir_opSWwX_uQKy9VKmGI9CbPPinCBd6wHBN3tLbI"
   }
 }
