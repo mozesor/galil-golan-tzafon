@@ -1,0 +1,22 @@
+{
+  "leagueId": 1259,
+  "leagueName": "ליגת ילדים ב׳ חוף",
+  "team": {
+    "displayName": "גליל גולן צפון",
+    "match": "גליל גולן",
+    "exclude": "דרום",
+    "short": "גליל"
+  },
+  "site": {
+    "title": "גליל גולן צפון | ילדים ב׳",
+    "whatsappFooter": "נשלח מלוח המשחקים של הקבוצה",
+    "repo": "mozesor/galil-golan-tzafon",
+    "url": "https://mozesor.github.io/galil-golan-tzafon/",
+    "icsId": "galil-golan-tzafon"
+  },
+  "cupLeagueId": 1306,
+  "push": {
+    "server": "https://galil-push-north.mozesor.workers.dev",
+    "vapidPublicKey": ""
+  }
+}

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//galil-golan-darom//he
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:גליל גולן צפון
+X-WR-TIMEZONE:Asia/Jerusalem
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:6acc33149878872a9639e85a@galil-golan-tzafon
+DTSTAMP:20260101T000000Z
+SUMMARY:⚽ גליל גולן צפון נגד הפועל מגדל העמק 
+ (חוץ) | מועד משוער
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+DESCRIPTION:מחזור 3\nמועד משוער: השעה טרם פורסמה
+  והיום עוד יכול לזוז. היומן יתעדכן לבד
+END:VEVENT
+END:VCALENDAR
