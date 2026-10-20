@@ -5,7 +5,7 @@
     "name": "ליגת ילדים ב' חוף",
     "currentRound": 1
   },
-  "fetchedAt": "2026-10-19T21:43:10.672Z",
+  "fetchedAt": "2026-10-20T03:22:38.778Z",
   "teams": [
     {
       "id": "68b5d99c1348fa686c13b82e",
@@ -231,24 +231,6 @@
         "id": "68b5d99c1348fa686c13b7d9",
         "pid": 5444,
         "name": "בני סכנין",
-        "goals": null
-      }
-    },
-    {
-      "id": "6acc33149878872a9639e851",
-      "date": "2026-10-23T10:45:00.000Z",
-      "round": 2,
-      "finished": false,
-      "home": {
-        "id": "68b5d99c1348fa686c13b7ac",
-        "pid": 3678,
-        "name": "מכבי עתלית",
-        "goals": null
-      },
-      "away": {
-        "id": "68ccd70d1b7b720e589fa269",
-        "pid": 5194,
-        "name": "הפועל מגדל העמק צו פיוס",
         "goals": null
       }
     },
@@ -744,6 +726,24 @@
         "id": "68b5d99c1348fa686c13b8a3",
         "pid": 5012,
         "name": "הפועל מטה אשר",
+        "goals": null
+      },
+      "away": {
+        "id": "68ccd70d1b7b720e589fa269",
+        "pid": 5194,
+        "name": "הפועל מגדל העמק צו פיוס",
+        "goals": null
+      }
+    },
+    {
+      "id": "6acc33149878872a9639e851",
+      "date": "2026-11-20T11:00:00.000Z",
+      "round": 2,
+      "finished": false,
+      "home": {
+        "id": "68b5d99c1348fa686c13b7ac",
+        "pid": 3678,
+        "name": "מכבי עתלית",
         "goals": null
       },
       "away": {
