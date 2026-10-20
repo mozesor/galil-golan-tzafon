@@ -1,6 +1,6 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//galil-golan-darom//he
+PRODID:-//galil-golan-tzafon//he
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:גליל גולן צפון
@@ -14,6 +14,7 @@ SUMMARY:🏆 גביע: גליל גולן צפון נגד ראמה 10:0 (ב
  ית)
 DTSTART:20261010T115000Z
 DTEND:20261010T132000Z
+LOCATION:צפת
 DESCRIPTION:גביע\, סיבוב א
 END:VEVENT
 END:VCALENDAR

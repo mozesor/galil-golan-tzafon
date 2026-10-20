@@ -1,6 +1,6 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//galil-golan-darom//he
+PRODID:-//galil-golan-tzafon//he
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:גליל גולן צפון | משחקים
@@ -14,6 +14,7 @@ SUMMARY:🏆 גביע: גליל גולן צפון נגד ראמה 10:0 (ב
  ית)
 DTSTART:20261010T115000Z
 DTEND:20261010T132000Z
+LOCATION:צפת
 DESCRIPTION:גביע\, סיבוב א
 END:VEVENT
 BEGIN:VEVENT
@@ -44,6 +45,7 @@ SUMMARY:⚽ גליל גולן צפון נגד הפועל מטה אשר (ב
  ית) | מועד משוער
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
+LOCATION:צפת
 DESCRIPTION:מחזור 2\nמועד משוער: השעה טרם פורסמה
   והיום עוד יכול לזוז. היומן יתעדכן לבד
 END:VEVENT
@@ -64,6 +66,7 @@ SUMMARY:⚽ גליל גולן צפון נגד הפועל עירוני כר
  מיאל (בית) | מועד משוער
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
+LOCATION:צפת
 DESCRIPTION:מחזור 4\nמועד משוער: השעה טרם פורסמה
   והיום עוד יכול לזוז. היומן יתעדכן לבד
 END:VEVENT
@@ -84,6 +87,7 @@ SUMMARY:⚽ גליל גולן צפון נגד מכבי צור שלום ק.
  ביאליק (בית) | מועד משוער
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
+LOCATION:צפת
 DESCRIPTION:מחזור 6\nמועד משוער: השעה טרם פורסמה
   והיום עוד יכול לזוז. היומן יתעדכן לבד
 END:VEVENT
@@ -104,6 +108,7 @@ SUMMARY:⚽ גליל גולן צפון נגד הפועל גלבוע (בית
  ) | מועד משוער
 DTSTART;VALUE=DATE:20261226
 DTEND;VALUE=DATE:20261227
+LOCATION:צפת
 DESCRIPTION:מחזור 8\nמועד משוער: השעה טרם פורסמה
   והיום עוד יכול לזוז. היומן יתעדכן לבד
 END:VEVENT
@@ -124,6 +129,7 @@ SUMMARY:⚽ גליל גולן צפון נגד הפועל קש (בית) | מ
  ועד משוער
 DTSTART;VALUE=DATE:20270116
 DTEND;VALUE=DATE:20270117
+LOCATION:צפת
 DESCRIPTION:מחזור 10\nמועד משוער: השעה טרם פורסמ
  ה והיום עוד יכול לזוז. היומן יתעדכן לבד
 END:VEVENT
@@ -144,6 +150,7 @@ SUMMARY:⚽ גליל גולן צפון נגד אהלי טמרה (בית) |
  מועד משוער
 DTSTART;VALUE=DATE:20270130
 DTEND;VALUE=DATE:20270131
+LOCATION:צפת
 DESCRIPTION:מחזור 12\nמועד משוער: השעה טרם פורסמ
  ה והיום עוד יכול לזוז. היומן יתעדכן לבד
 END:VEVENT
@@ -164,6 +171,7 @@ SUMMARY:⚽ גליל גולן צפון נגד חיפה רובי שפירא
  (בית) | מועד משוער
 DTSTART;VALUE=DATE:20270213
 DTEND;VALUE=DATE:20270214
+LOCATION:צפת
 DESCRIPTION:מחזור 14\nמועד משוער: השעה טרם פורסמ
  ה והיום עוד יכול לזוז. היומן יתעדכן לבד
 END:VEVENT
