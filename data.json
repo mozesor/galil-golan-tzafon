@@ -5,7 +5,7 @@
     "name": "ליגת ילדים ב' חוף",
     "currentRound": 1
   },
-  "fetchedAt": "2026-10-20T03:36:40.562Z",
+  "fetchedAt": "2026-10-20T18:48:21.973Z",
   "teams": [
     {
       "id": "68b5d99c1348fa686c13b82e",
@@ -202,18 +202,18 @@
       "id": "6acc33149878872a9639e839",
       "date": "2026-10-20T16:30:00.000Z",
       "round": 1,
-      "finished": false,
+      "finished": true,
       "home": {
         "id": "68b5d99c1348fa686c13b7a7",
         "pid": 6178,
         "name": "הפ' בית שאן מסילות יהודה עיני",
-        "goals": null
+        "goals": 1
       },
       "away": {
         "id": "68b5d99c1348fa686c13b81f",
         "pid": 1232,
         "name": "מכבי צור שלום ק. ביאליק",
-        "goals": null
+        "goals": 7
       }
     },
     {
