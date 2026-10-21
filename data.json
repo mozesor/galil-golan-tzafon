@@ -5,7 +5,7 @@
     "name": "ליגת ילדים ב' חוף",
     "currentRound": 1
   },
-  "fetchedAt": "2026-10-21T01:29:33.163Z",
+  "fetchedAt": "2026-10-21T18:18:26.651Z",
   "teams": [
     {
       "id": "68b5d99c1348fa686c13b82e",
@@ -220,18 +220,18 @@
       "id": "6acc33149878872a9639e83c",
       "date": "2026-10-21T15:30:00.000Z",
       "round": 1,
-      "finished": false,
+      "finished": true,
       "home": {
         "id": "68b5d99c1348fa686c13b7a6",
         "pid": 3681,
         "name": "מ.כ הפועל גלבוע",
-        "goals": null
+        "goals": 7
       },
       "away": {
         "id": "68b5d99c1348fa686c13b7d9",
         "pid": 5444,
         "name": "בני סכנין",
-        "goals": null
+        "goals": 4
       }
     },
     {
