@@ -5,7 +5,7 @@
     "name": "ליגת ילדים ב' חוף",
     "currentRound": 1
   },
-  "fetchedAt": "2026-10-22T03:50:13.312Z",
+  "fetchedAt": "2026-10-22T03:58:13.015Z",
   "teams": [
     {
       "id": "68b5d99c1348fa686c13b82e",
@@ -378,9 +378,9 @@
         "goals": null
       },
       "ifa": {
-        "date": "2026-10-28",
-        "time": null,
-        "venue": null
+        "date": "2026-10-30",
+        "time": "11:00",
+        "venue": "צפת"
       }
     },
     {
