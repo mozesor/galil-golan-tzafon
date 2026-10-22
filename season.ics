@@ -31,23 +31,31 @@ BEGIN:VEVENT
 UID:6ad56e475239c8925a114c4c@galil-golan-tzafon
 DTSTAMP:20260101T000000Z
 SUMMARY:🏆 גביע: גליל גולן צפון נגד מכבי צור ש
- לום ק. ביאליק (חוץ) | מועד משוער
-DTSTART;VALUE=DATE:20261024
-DTEND;VALUE=DATE:20261025
-DESCRIPTION:גביע\, סיבוב ב\nמועד משוער: השעה טרם 
- פורסמה והיום עוד יכול לזוז. היומן יתעדכן 
- לבד
+ לום ק. ביאליק (בית)
+DTSTART:20261028T180000Z
+DTEND:20261028T193000Z
+LOCATION:צפת
+DESCRIPTION:גביע\, סיבוב ב
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:משחק בעוד שעתיים
+TRIGGER:-PT2H
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:6acc33149878872a9639e854@galil-golan-tzafon
 DTSTAMP:20260101T000000Z
 SUMMARY:⚽ גליל גולן צפון נגד הפועל מטה אשר (ב
- ית) | מועד משוער
-DTSTART;VALUE=DATE:20261028
-DTEND;VALUE=DATE:20261029
+ ית)
+DTSTART:20261030T090000Z
+DTEND:20261030T103000Z
 LOCATION:צפת
-DESCRIPTION:מחזור 2\nמועד משוער: השעה טרם פורסמה
-  והיום עוד יכול לזוז. היומן יתעדכן לבד
+DESCRIPTION:מחזור 2
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:משחק בעוד שעתיים
+TRIGGER:-PT2H
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:6acc33149878872a9639e85a@galil-golan-tzafon
@@ -115,8 +123,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6acc33149878872a9639e8de@galil-golan-tzafon
 DTSTAMP:20260101T000000Z
-SUMMARY:⚽ גליל גולן צפון נגד מכבי עוספיא (חוץ
- ) | מועד משוער
+SUMMARY:⚽ גליל גולן צפון נגד מכבי עספיא (חוץ) 
+ | מועד משוער
 DTSTART;VALUE=DATE:20270109
 DTEND;VALUE=DATE:20270110
 DESCRIPTION:מחזור 9\nמועד משוער: השעה טרם פורסמה

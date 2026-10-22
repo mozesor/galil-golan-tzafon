@@ -11,11 +11,15 @@ BEGIN:VEVENT
 UID:6ad56e475239c8925a114c4c@galil-golan-tzafon
 DTSTAMP:20260101T000000Z
 SUMMARY:🏆 גביע: גליל גולן צפון נגד מכבי צור ש
- לום ק. ביאליק (חוץ) | מועד משוער
-DTSTART;VALUE=DATE:20261024
-DTEND;VALUE=DATE:20261025
-DESCRIPTION:גביע\, סיבוב ב\nמועד משוער: השעה טרם 
- פורסמה והיום עוד יכול לזוז. היומן יתעדכן 
- לבד
+ לום ק. ביאליק (בית)
+DTSTART:20261028T180000Z
+DTEND:20261028T193000Z
+LOCATION:צפת
+DESCRIPTION:גביע\, סיבוב ב
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:משחק בעוד שעתיים
+TRIGGER:-PT2H
+END:VALARM
 END:VEVENT
 END:VCALENDAR
