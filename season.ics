@@ -203,4 +203,140 @@ DTEND;VALUE=DATE:20270314
 DESCRIPTION:מחזור 17\nמועד משוער: השעה טרם פורסמ
  ה והיום עוד יכול לזוז. היומן יתעדכן לבד
 END:VEVENT
+BEGIN:VEVENT
+UID:6adab3d4bc1366b026ad1064@galil-golan-tzafon
+DTSTAMP:20260101T000000Z
+SUMMARY:⚽ גליל גולן צפון נגד ביתר נהריה (חוץ) 
+ | מועד משוער
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+DESCRIPTION:מחזור 18\nמועד משוער: השעה טרם פורסמ
+ ה והיום עוד יכול לזוז. היומן יתעדכן לבד
+END:VEVENT
+BEGIN:VEVENT
+UID:6adab3d4bc1366b026ad1076@galil-golan-tzafon
+DTSTAMP:20260101T000000Z
+SUMMARY:⚽ גליל גולן צפון נגד הפועל מטה אשר (ח
+ וץ) | מועד משוער
+DTSTART;VALUE=DATE:20270327
+DTEND;VALUE=DATE:20270328
+DESCRIPTION:מחזור 19\nמועד משוער: השעה טרם פורסמ
+ ה והיום עוד יכול לזוז. היומן יתעדכן לבד
+END:VEVENT
+BEGIN:VEVENT
+UID:6adab3d4bc1366b026ad107a@galil-golan-tzafon
+DTSTAMP:20260101T000000Z
+SUMMARY:⚽ גליל גולן צפון נגד הפועל מגדל העמק 
+ (בית) | מועד משוער
+DTSTART;VALUE=DATE:20270403
+DTEND;VALUE=DATE:20270404
+LOCATION:צפת
+DESCRIPTION:מחזור 20\nמועד משוער: השעה טרם פורסמ
+ ה והיום עוד יכול לזוז. היומן יתעדכן לבד
+END:VEVENT
+BEGIN:VEVENT
+UID:6adab3d4bc1366b026ad108b@galil-golan-tzafon
+DTSTAMP:20260101T000000Z
+SUMMARY:⚽ גליל גולן צפון נגד הפועל עירוני כר
+ מיאל (חוץ) | מועד משוער
+DTSTART;VALUE=DATE:20270406
+DTEND;VALUE=DATE:20270407
+DESCRIPTION:מחזור 21\nמועד משוער: השעה טרם פורסמ
+ ה והיום עוד יכול לזוז. היומן יתעדכן לבד
+END:VEVENT
+BEGIN:VEVENT
+UID:6adab3d5bc1366b026ad1090@galil-golan-tzafon
+DTSTAMP:20260101T000000Z
+SUMMARY:⚽ גליל גולן צפון נגד הפועל עפולה (בית
+ ) | מועד משוער
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270411
+LOCATION:צפת
+DESCRIPTION:מחזור 22\nמועד משוער: השעה טרם פורסמ
+ ה והיום עוד יכול לזוז. היומן יתעדכן לבד
+END:VEVENT
+BEGIN:VEVENT
+UID:6adab3d5bc1366b026ad109f@galil-golan-tzafon
+DTSTAMP:20260101T000000Z
+SUMMARY:⚽ גליל גולן צפון נגד מכבי צור שלום ק. 
+ ביאליק (חוץ) | מועד משוער
+DTSTART;VALUE=DATE:20270417
+DTEND;VALUE=DATE:20270418
+DESCRIPTION:מחזור 23\nמועד משוער: השעה טרם פורסמ
+ ה והיום עוד יכול לזוז. היומן יתעדכן לבד
+END:VEVENT
+BEGIN:VEVENT
+UID:6adab3d5bc1366b026ad10a6@galil-golan-tzafon
+DTSTAMP:20260101T000000Z
+SUMMARY:⚽ גליל גולן צפון נגד הפועל מ.א. משגב (
+ בית) | מועד משוער
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270425
+LOCATION:צפת
+DESCRIPTION:מחזור 24\nמועד משוער: השעה טרם פורסמ
+ ה והיום עוד יכול לזוז. היומן יתעדכן לבד
+END:VEVENT
+BEGIN:VEVENT
+UID:6adab3d5bc1366b026ad10b3@galil-golan-tzafon
+DTSTAMP:20260101T000000Z
+SUMMARY:⚽ גליל גולן צפון נגד הפועל גלבוע (חוץ
+ ) | מועד משוער
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+DESCRIPTION:מחזור 25\nמועד משוער: השעה טרם פורסמ
+ ה והיום עוד יכול לזוז. היומן יתעדכן לבד
+END:VEVENT
+BEGIN:VEVENT
+UID:6adab3d5bc1366b026ad10bc@galil-golan-tzafon
+DTSTAMP:20260101T000000Z
+SUMMARY:⚽ גליל גולן צפון נגד מכבי עספיא (בית) 
+ | מועד משוער
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+LOCATION:צפת
+DESCRIPTION:מחזור 26\nמועד משוער: השעה טרם פורסמ
+ ה והיום עוד יכול לזוז. היומן יתעדכן לבד
+END:VEVENT
+BEGIN:VEVENT
+UID:6adab3d5bc1366b026ad10c7@galil-golan-tzafon
+DTSTAMP:20260101T000000Z
+SUMMARY:⚽ גליל גולן צפון נגד הפועל קש (חוץ) | מ
+ ועד משוער
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+DESCRIPTION:מחזור 27\nמועד משוער: השעה טרם פורסמ
+ ה והיום עוד יכול לזוז. היומן יתעדכן לבד
+END:VEVENT
+BEGIN:VEVENT
+UID:6adab3d5bc1366b026ad10d2@galil-golan-tzafon
+DTSTAMP:20260101T000000Z
+SUMMARY:⚽ גליל גולן צפון נגד הפ׳ רמות מנשה מג
+ ידו (בית) | מועד משוער
+DTSTART;VALUE=DATE:20270518
+DTEND;VALUE=DATE:20270519
+LOCATION:צפת
+DESCRIPTION:מחזור 28\nמועד משוער: השעה טרם פורסמ
+ ה והיום עוד יכול לזוז. היומן יתעדכן לבד
+END:VEVENT
+BEGIN:VEVENT
+UID:6adab3d5bc1366b026ad10db@galil-golan-tzafon
+DTSTAMP:20260101T000000Z
+SUMMARY:⚽ גליל גולן צפון נגד אהלי טמרה (חוץ) | 
+ מועד משוער
+DTSTART;VALUE=DATE:20270522
+DTEND;VALUE=DATE:20270523
+DESCRIPTION:מחזור 29\nמועד משוער: השעה טרם פורסמ
+ ה והיום עוד יכול לזוז. היומן יתעדכן לבד
+END:VEVENT
+BEGIN:VEVENT
+UID:6adab3d5bc1366b026ad10e8@galil-golan-tzafon
+DTSTAMP:20260101T000000Z
+SUMMARY:⚽ גליל גולן צפון נגד בני סכנין (בית) | 
+ מועד משוער
+DTSTART;VALUE=DATE:20270529
+DTEND;VALUE=DATE:20270530
+LOCATION:צפת
+DESCRIPTION:מחזור 30\nמועד משוער: השעה טרם פורסמ
+ ה והיום עוד יכול לזוז. היומן יתעדכן לבד
+END:VEVENT
 END:VCALENDAR
