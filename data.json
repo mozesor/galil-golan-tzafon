@@ -11,7 +11,7 @@
     "name": "ליגת ילדים ב' חוף",
     "currentRound": 2
   },
-  "fetchedAt": "2026-10-28T19:48:40.685Z",
+  "fetchedAt": "2026-10-28T20:33:26.899Z",
   "teams": [
     {
       "id": "68b5d99c1348fa686c13b82e",
@@ -5309,18 +5309,18 @@
         "id": "6ad56e475239c8925a114c4c",
         "date": "2026-10-28T18:00:00.000Z",
         "round": 2,
-        "finished": false,
+        "finished": true,
         "home": {
           "id": "68b5d99c1348fa686c13b7ad",
           "pid": 3674,
           "name": "מ.כ. גליל גולן צפון",
-          "goals": null
+          "goals": 0
         },
         "away": {
           "id": "68b5d99c1348fa686c13b81f",
           "pid": 1232,
           "name": "מכבי צור שלום ק. ביאליק צו פיוס",
-          "goals": null
+          "goals": 4
         },
         "cup": true,
         "roundName": "סיבוב ב"
