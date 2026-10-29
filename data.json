@@ -1,17 +1,17 @@
 {
   "rankChange": {
-    "from": 8,
-    "to": 9,
+    "from": 9,
+    "to": 10,
     "points": 3,
     "round": 2,
-    "at": "2026-10-28T19:48:40.685Z"
+    "at": "2026-10-29T20:03:24.706Z"
   },
   "league": {
     "id": 1259,
     "name": "ליגת ילדים ב' חוף",
     "currentRound": 2
   },
-  "fetchedAt": "2026-10-29T12:33:27.254Z",
+  "fetchedAt": "2026-10-29T20:03:24.706Z",
   "teams": [
     {
       "id": "68b5d99c1348fa686c13b82e",
@@ -298,36 +298,36 @@
       "id": "6acc33149878872a9639e849",
       "date": "2026-10-29T17:00:00.000Z",
       "round": 2,
-      "finished": false,
+      "finished": true,
       "home": {
         "id": "68b5d99c1348fa686c13b7a7",
         "pid": 6178,
         "name": "הפ' בית שאן מסילות יהודה עיני צו פיוס",
-        "goals": null
+        "goals": 9
       },
       "away": {
         "id": "68ccd7061b7b720e589f9e2a",
         "pid": 2126,
         "name": "הפועל מ.א. משגב צו פיוס",
-        "goals": null
+        "goals": 1
       }
     },
     {
       "id": "6acc33149878872a9639e84f",
       "date": "2026-10-29T17:30:00.000Z",
       "round": 2,
-      "finished": false,
+      "finished": true,
       "home": {
         "id": "68b5d99c1348fa686c13b882",
         "pid": 8016,
         "name": "הפועל חוף הכרמל / ממ 2 צו פיוס",
-        "goals": null
+        "goals": 2
       },
       "away": {
         "id": "68b5d99c1348fa686c13b82e",
         "pid": 5906,
         "name": "הפועל עירוני כרמיאל",
-        "goals": null
+        "goals": 1
       }
     },
     {
@@ -5035,6 +5035,19 @@
   "standings": [
     {
       "rank": 1,
+      "id": "68b5d99c1348fa686c13b882",
+      "name": "הפועל חוף הכרמל / ממ 2 צו פיוס",
+      "games": 2,
+      "wins": 2,
+      "draws": 0,
+      "losses": 0,
+      "gf": 13,
+      "ga": 3,
+      "gd": 10,
+      "points": 6
+    },
+    {
+      "rank": 2,
       "id": "68b5d99c1348fa686c13b7a6",
       "name": "מ.כ הפועל גלבוע צו פיוס",
       "games": 2,
@@ -5047,7 +5060,7 @@
       "points": 6
     },
     {
-      "rank": 2,
+      "rank": 3,
       "id": "68b5d99c1348fa686c13b840",
       "name": "הפ' יוקנעם ארז צו פיוס",
       "games": 2,
@@ -5060,7 +5073,7 @@
       "points": 4
     },
     {
-      "rank": 3,
+      "rank": 4,
       "id": "68b5d99c1348fa686c13b8a3",
       "name": "הפועל מטה אשר צו פיוס",
       "games": 1,
@@ -5073,7 +5086,7 @@
       "points": 3
     },
     {
-      "rank": 4,
+      "rank": 5,
       "id": "68b5d99c1348fa686c13b812",
       "name": "ביתר נהריה צו פיוס",
       "games": 2,
@@ -5083,19 +5096,6 @@
       "gf": 15,
       "ga": 4,
       "gd": 11,
-      "points": 3
-    },
-    {
-      "rank": 5,
-      "id": "68b5d99c1348fa686c13b882",
-      "name": "הפועל חוף הכרמל / ממ 2 צו פיוס",
-      "games": 1,
-      "wins": 1,
-      "draws": 0,
-      "losses": 0,
-      "gf": 11,
-      "ga": 2,
-      "gd": 9,
       "points": 3
     },
     {
@@ -5139,6 +5139,19 @@
     },
     {
       "rank": 9,
+      "id": "68b5d99c1348fa686c13b7a7",
+      "name": "הפ' בית שאן מסילות יהודה עיני צו פיוס",
+      "games": 2,
+      "wins": 1,
+      "draws": 0,
+      "losses": 1,
+      "gf": 10,
+      "ga": 8,
+      "gd": 2,
+      "points": 3
+    },
+    {
+      "rank": 10,
       "id": "68b5d99c1348fa686c13b7ad",
       "name": "מ.כ. גליל גולן צפון",
       "games": 1,
@@ -5151,46 +5164,20 @@
       "points": 3
     },
     {
-      "rank": 10,
+      "rank": 11,
       "id": "68b5d99c1348fa686c13b82e",
       "name": "הפועל עירוני כרמיאל",
-      "games": 1,
+      "games": 2,
       "wins": 0,
       "draws": 1,
-      "losses": 0,
-      "gf": 2,
-      "ga": 2,
-      "gd": 0,
+      "losses": 1,
+      "gf": 3,
+      "ga": 4,
+      "gd": -1,
       "points": 1
     },
     {
-      "rank": 11,
-      "id": "68ccd7061b7b720e589f9e2a",
-      "name": "הפועל מ.א. משגב צו פיוס",
-      "games": 0,
-      "wins": 0,
-      "draws": 0,
-      "losses": 0,
-      "gf": 0,
-      "ga": 0,
-      "gd": 0,
-      "points": 0
-    },
-    {
       "rank": 12,
-      "id": "68b5d99c1348fa686c13b87e",
-      "name": "מכבי עספיא",
-      "games": 0,
-      "wins": 0,
-      "draws": 0,
-      "losses": 0,
-      "gf": 0,
-      "ga": 0,
-      "gd": 0,
-      "points": 0
-    },
-    {
-      "rank": 13,
       "id": "68b5d99c1348fa686c13b7d9",
       "name": "בני סכנין",
       "games": 1,
@@ -5199,6 +5186,19 @@
       "losses": 1,
       "gf": 4,
       "ga": 7,
+      "gd": -3,
+      "points": 0
+    },
+    {
+      "rank": 13,
+      "id": "68b5d99c1348fa686c13b87e",
+      "name": "מכבי עספיא",
+      "games": 1,
+      "wins": 0,
+      "draws": 0,
+      "losses": 1,
+      "gf": 3,
+      "ga": 6,
       "gd": -3,
       "points": 0
     },
@@ -5230,15 +5230,15 @@
     },
     {
       "rank": 16,
-      "id": "68b5d99c1348fa686c13b7a7",
-      "name": "הפ' בית שאן מסילות יהודה עיני צו פיוס",
+      "id": "68ccd7061b7b720e589f9e2a",
+      "name": "הפועל מ.א. משגב צו פיוס",
       "games": 1,
       "wins": 0,
       "draws": 0,
       "losses": 1,
       "gf": 1,
-      "ga": 7,
-      "gd": -6,
+      "ga": 9,
+      "gd": -8,
       "points": 0
     },
     {
