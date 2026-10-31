@@ -11,7 +11,7 @@
     "name": "ליגת ילדים ב' חוף",
     "currentRound": 3
   },
-  "fetchedAt": "2026-10-31T12:18:28.166Z",
+  "fetchedAt": "2026-10-31T12:28:26.119Z",
   "teams": [
     {
       "id": "68b5d99c1348fa686c13b82e",
@@ -5178,6 +5178,19 @@
     },
     {
       "rank": 12,
+      "id": "68b5d99c1348fa686c13b87e",
+      "name": "מכבי עספיא",
+      "games": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "gf": 0,
+      "ga": 0,
+      "gd": 0,
+      "points": 0
+    },
+    {
+      "rank": 13,
       "id": "68b5d99c1348fa686c13b7d9",
       "name": "בני סכנין",
       "games": 1,
@@ -5186,19 +5199,6 @@
       "losses": 1,
       "gf": 4,
       "ga": 7,
-      "gd": -3,
-      "points": 0
-    },
-    {
-      "rank": 13,
-      "id": "68b5d99c1348fa686c13b87e",
-      "name": "מכבי עספיא",
-      "games": 1,
-      "wins": 0,
-      "draws": 0,
-      "losses": 1,
-      "gf": 3,
-      "ga": 6,
       "gd": -3,
       "points": 0
     },
