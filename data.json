@@ -11,7 +11,7 @@
     "name": "ליגת ילדים ב' חוף",
     "currentRound": 3
   },
-  "fetchedAt": "2026-10-31T05:03:26.057Z",
+  "fetchedAt": "2026-10-31T12:13:26.208Z",
   "teams": [
     {
       "id": "68b5d99c1348fa686c13b82e",
@@ -5074,6 +5074,19 @@
     },
     {
       "rank": 4,
+      "id": "68ccd70d1b7b720e589fa2bd",
+      "name": "אהלי טמרה",
+      "games": 2,
+      "wins": 2,
+      "draws": 0,
+      "losses": 0,
+      "gf": 11,
+      "ga": 4,
+      "gd": 7,
+      "points": 6
+    },
+    {
+      "rank": 5,
       "id": "68b5d99c1348fa686c13b840",
       "name": "הפ' יוקנעם ארז צו פיוס",
       "games": 2,
@@ -5086,7 +5099,7 @@
       "points": 4
     },
     {
-      "rank": 5,
+      "rank": 6,
       "id": "68b5d99c1348fa686c13b812",
       "name": "ביתר נהריה צו פיוס",
       "games": 2,
@@ -5099,7 +5112,7 @@
       "points": 3
     },
     {
-      "rank": 6,
+      "rank": 7,
       "id": "68b5d99c1348fa686c13b81f",
       "name": "מכבי צור שלום ק. ביאליק צו פיוס",
       "games": 1,
@@ -5112,7 +5125,7 @@
       "points": 3
     },
     {
-      "rank": 7,
+      "rank": 8,
       "id": "68b5d99c1348fa686c13b845",
       "name": "הפועל קש",
       "games": 1,
@@ -5122,19 +5135,6 @@
       "gf": 6,
       "ga": 1,
       "gd": 5,
-      "points": 3
-    },
-    {
-      "rank": 8,
-      "id": "68ccd70d1b7b720e589fa2bd",
-      "name": "אהלי טמרה",
-      "games": 1,
-      "wins": 1,
-      "draws": 0,
-      "losses": 0,
-      "gf": 6,
-      "ga": 3,
-      "gd": 3,
       "points": 3
     },
     {
@@ -5178,19 +5178,6 @@
     },
     {
       "rank": 12,
-      "id": "68b5d99c1348fa686c13b87e",
-      "name": "מכבי עספיא",
-      "games": 0,
-      "wins": 0,
-      "draws": 0,
-      "losses": 0,
-      "gf": 0,
-      "ga": 0,
-      "gd": 0,
-      "points": 0
-    },
-    {
-      "rank": 13,
       "id": "68b5d99c1348fa686c13b7d9",
       "name": "בני סכנין",
       "games": 1,
@@ -5199,6 +5186,19 @@
       "losses": 1,
       "gf": 4,
       "ga": 7,
+      "gd": -3,
+      "points": 0
+    },
+    {
+      "rank": 13,
+      "id": "68b5d99c1348fa686c13b87e",
+      "name": "מכבי עספיא",
+      "games": 1,
+      "wins": 0,
+      "draws": 0,
+      "losses": 1,
+      "gf": 3,
+      "ga": 6,
       "gd": -3,
       "points": 0
     },
@@ -5271,13 +5271,13 @@
       "rank": 19,
       "id": "68b5d99c1348fa686c13b875",
       "name": "הפ' רמות מנשה מגידו",
-      "games": 2,
+      "games": 3,
       "wins": 0,
       "draws": 0,
-      "losses": 2,
-      "gf": 2,
-      "ga": 19,
-      "gd": -17,
+      "losses": 3,
+      "gf": 3,
+      "ga": 24,
+      "gd": -21,
       "points": 0
     }
   ],
