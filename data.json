@@ -11,7 +11,7 @@
     "name": "ליגת ילדים ב' חוף",
     "currentRound": 3
   },
-  "fetchedAt": "2026-10-31T12:13:26.208Z",
+  "fetchedAt": "2026-10-31T12:18:28.166Z",
   "teams": [
     {
       "id": "68b5d99c1348fa686c13b82e",
@@ -357,18 +357,18 @@
       "id": "6acc33149878872a9639e869",
       "date": "2026-10-31T09:00:00.000Z",
       "round": 3,
-      "finished": false,
+      "finished": true,
       "home": {
         "id": "68b5d99c1348fa686c13b875",
         "pid": 4872,
         "name": "הפ' רמות מנשה מגידו",
-        "goals": null
+        "goals": 1
       },
       "away": {
         "id": "68ccd70d1b7b720e589fa2bd",
         "pid": 3136,
         "name": "אהלי טמרה",
-        "goals": null
+        "goals": 5
       }
     },
     {
