@@ -1,17 +1,17 @@
 {
   "rankChange": {
-    "from": 9,
-    "to": 10,
+    "from": 10,
+    "to": 11,
     "points": 3,
-    "round": 2,
-    "at": "2026-10-29T20:03:24.706Z"
+    "round": 3,
+    "at": "2026-10-31T20:33:28.279Z"
   },
   "league": {
     "id": 1259,
     "name": "ליגת ילדים ב' חוף",
     "currentRound": 3
   },
-  "fetchedAt": "2026-10-31T12:28:26.119Z",
+  "fetchedAt": "2026-10-31T20:33:28.279Z",
   "teams": [
     {
       "id": "68b5d99c1348fa686c13b82e",
@@ -375,18 +375,18 @@
       "id": "6acc33149878872a9639e868",
       "date": "2026-10-31T17:30:00.000Z",
       "round": 3,
-      "finished": false,
+      "finished": true,
       "home": {
         "id": "68b5d99c1348fa686c13b845",
         "pid": 2235,
         "name": "הפועל קש",
-        "goals": null
+        "goals": 1
       },
       "away": {
         "id": "68b5d99c1348fa686c13b7d9",
         "pid": 5444,
         "name": "בני סכנין",
-        "goals": null
+        "goals": 2
       }
     },
     {
@@ -5128,13 +5128,13 @@
       "rank": 8,
       "id": "68b5d99c1348fa686c13b845",
       "name": "הפועל קש",
-      "games": 1,
+      "games": 2,
       "wins": 1,
       "draws": 0,
-      "losses": 0,
-      "gf": 6,
-      "ga": 1,
-      "gd": 5,
+      "losses": 1,
+      "gf": 7,
+      "ga": 3,
+      "gd": 4,
       "points": 3
     },
     {
@@ -5152,6 +5152,19 @@
     },
     {
       "rank": 10,
+      "id": "68b5d99c1348fa686c13b7d9",
+      "name": "בני סכנין",
+      "games": 2,
+      "wins": 1,
+      "draws": 0,
+      "losses": 1,
+      "gf": 6,
+      "ga": 8,
+      "gd": -2,
+      "points": 3
+    },
+    {
+      "rank": 11,
       "id": "68b5d99c1348fa686c13b7ad",
       "name": "מ.כ. גליל גולן צפון",
       "games": 2,
@@ -5164,7 +5177,7 @@
       "points": 3
     },
     {
-      "rank": 11,
+      "rank": 12,
       "id": "68b5d99c1348fa686c13b82e",
       "name": "הפועל עירוני כרמיאל",
       "games": 2,
@@ -5177,28 +5190,15 @@
       "points": 1
     },
     {
-      "rank": 12,
+      "rank": 13,
       "id": "68b5d99c1348fa686c13b87e",
       "name": "מכבי עספיא",
-      "games": 0,
-      "wins": 0,
-      "draws": 0,
-      "losses": 0,
-      "gf": 0,
-      "ga": 0,
-      "gd": 0,
-      "points": 0
-    },
-    {
-      "rank": 13,
-      "id": "68b5d99c1348fa686c13b7d9",
-      "name": "בני סכנין",
       "games": 1,
       "wins": 0,
       "draws": 0,
       "losses": 1,
-      "gf": 4,
-      "ga": 7,
+      "gf": 3,
+      "ga": 6,
       "gd": -3,
       "points": 0
     },
