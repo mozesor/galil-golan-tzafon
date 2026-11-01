@@ -11,7 +11,7 @@
     "name": "ליגת ילדים ב' חוף",
     "currentRound": 3
   },
-  "fetchedAt": "2026-11-01T05:03:24.778Z",
+  "fetchedAt": "2026-11-01T12:28:27.867Z",
   "teams": [
     {
       "id": "68b5d99c1348fa686c13b82e",
@@ -5193,13 +5193,13 @@
       "rank": 13,
       "id": "68b5d99c1348fa686c13b87e",
       "name": "מכבי עספיא",
-      "games": 0,
+      "games": 1,
       "wins": 0,
       "draws": 0,
-      "losses": 0,
-      "gf": 0,
-      "ga": 0,
-      "gd": 0,
+      "losses": 1,
+      "gf": 3,
+      "ga": 6,
+      "gd": -3,
       "points": 0
     },
     {
