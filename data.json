@@ -11,7 +11,7 @@
     "name": "ליגת ילדים ב' חוף",
     "currentRound": 1
   },
-  "fetchedAt": "2026-11-02T02:18:48.082Z",
+  "fetchedAt": "2026-11-02T19:33:31.139Z",
   "teams": [
     {
       "id": "68b5d99c1348fa686c13b82e",
@@ -393,18 +393,18 @@
       "id": "6acc33149878872a9639e861",
       "date": "2026-11-02T13:30:00.000Z",
       "round": 3,
-      "finished": false,
+      "finished": true,
       "home": {
         "id": "68b5d99c1348fa686c13b840",
         "pid": 4960,
         "name": "הפ' יוקנעם ארז צו פיוס",
-        "goals": null
+        "goals": 2
       },
       "away": {
         "id": "68b5d99c1348fa686c13b81f",
         "pid": 1232,
         "name": "מכבי צור שלום ק. ביאליק צו פיוס",
-        "goals": null
+        "goals": 6
       }
     },
     {
@@ -5061,6 +5061,19 @@
     },
     {
       "rank": 3,
+      "id": "68b5d99c1348fa686c13b81f",
+      "name": "מכבי צור שלום ק. ביאליק צו פיוס",
+      "games": 2,
+      "wins": 2,
+      "draws": 0,
+      "losses": 0,
+      "gf": 13,
+      "ga": 3,
+      "gd": 10,
+      "points": 6
+    },
+    {
+      "rank": 4,
       "id": "68b5d99c1348fa686c13b7a6",
       "name": "מ.כ הפועל גלבוע צו פיוס",
       "games": 2,
@@ -5073,7 +5086,7 @@
       "points": 6
     },
     {
-      "rank": 4,
+      "rank": 5,
       "id": "68ccd70d1b7b720e589fa2bd",
       "name": "אהלי טמרה",
       "games": 2,
@@ -5086,20 +5099,20 @@
       "points": 6
     },
     {
-      "rank": 5,
+      "rank": 6,
       "id": "68b5d99c1348fa686c13b840",
       "name": "הפ' יוקנעם ארז צו פיוס",
-      "games": 2,
+      "games": 3,
       "wins": 1,
       "draws": 1,
-      "losses": 0,
-      "gf": 7,
-      "ga": 4,
-      "gd": 3,
+      "losses": 1,
+      "gf": 9,
+      "ga": 10,
+      "gd": -1,
       "points": 4
     },
     {
-      "rank": 6,
+      "rank": 7,
       "id": "68b5d99c1348fa686c13b812",
       "name": "ביתר נהריה צו פיוס",
       "games": 2,
@@ -5109,19 +5122,6 @@
       "gf": 15,
       "ga": 4,
       "gd": 11,
-      "points": 3
-    },
-    {
-      "rank": 7,
-      "id": "68b5d99c1348fa686c13b81f",
-      "name": "מכבי צור שלום ק. ביאליק צו פיוס",
-      "games": 1,
-      "wins": 1,
-      "draws": 0,
-      "losses": 0,
-      "gf": 7,
-      "ga": 1,
-      "gd": 6,
       "points": 3
     },
     {
