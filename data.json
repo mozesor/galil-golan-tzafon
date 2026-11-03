@@ -11,7 +11,7 @@
     "name": "ליגת ילדים ב' חוף",
     "currentRound": 3
   },
-  "fetchedAt": "2026-11-03T02:35:28.991Z",
+  "fetchedAt": "2026-11-03T19:18:28.355Z",
   "teams": [
     {
       "id": "68b5d99c1348fa686c13b82e",
@@ -465,18 +465,18 @@
       "id": "6acc33149878872a9639e85f",
       "date": "2026-11-03T17:00:00.000Z",
       "round": 3,
-      "finished": false,
+      "finished": true,
       "home": {
         "id": "68b5d99c1348fa686c13b8a9",
         "pid": 2150,
         "name": "הפועל עפולה",
-        "goals": null
+        "goals": 2
       },
       "away": {
         "id": "68b5d99c1348fa686c13b882",
         "pid": 8016,
         "name": "הפועל חוף הכרמל / ממ 2 צו פיוס",
-        "goals": null
+        "goals": 2
       }
     },
     {
@@ -5061,6 +5061,19 @@
     },
     {
       "rank": 3,
+      "id": "68b5d99c1348fa686c13b882",
+      "name": "הפועל חוף הכרמל / ממ 2 צו פיוס",
+      "games": 3,
+      "wins": 2,
+      "draws": 1,
+      "losses": 0,
+      "gf": 15,
+      "ga": 5,
+      "gd": 10,
+      "points": 7
+    },
+    {
+      "rank": 4,
       "id": "68b5d99c1348fa686c13b8a3",
       "name": "הפועל מטה אשר צו פיוס",
       "games": 2,
@@ -5070,19 +5083,6 @@
       "gf": 20,
       "ga": 2,
       "gd": 18,
-      "points": 6
-    },
-    {
-      "rank": 4,
-      "id": "68b5d99c1348fa686c13b882",
-      "name": "הפועל חוף הכרמל / ממ 2 צו פיוס",
-      "games": 2,
-      "wins": 2,
-      "draws": 0,
-      "losses": 0,
-      "gf": 13,
-      "ga": 3,
-      "gd": 10,
       "points": 6
     },
     {
@@ -5204,6 +5204,19 @@
     },
     {
       "rank": 14,
+      "id": "68b5d99c1348fa686c13b8a9",
+      "name": "הפועל עפולה",
+      "games": 2,
+      "wins": 0,
+      "draws": 1,
+      "losses": 1,
+      "gf": 4,
+      "ga": 7,
+      "gd": -3,
+      "points": 1
+    },
+    {
+      "rank": 15,
       "id": "68b5d99c1348fa686c13b87e",
       "name": "מכבי עספיא",
       "games": 1,
@@ -5212,19 +5225,6 @@
       "losses": 1,
       "gf": 3,
       "ga": 6,
-      "gd": -3,
-      "points": 0
-    },
-    {
-      "rank": 15,
-      "id": "68b5d99c1348fa686c13b8a9",
-      "name": "הפועל עפולה",
-      "games": 1,
-      "wins": 0,
-      "draws": 0,
-      "losses": 1,
-      "gf": 2,
-      "ga": 5,
       "gd": -3,
       "points": 0
     },
