@@ -11,7 +11,7 @@
     "name": "ליגת ילדים ב' חוף",
     "currentRound": 3
   },
-  "fetchedAt": "2026-11-03T19:48:30.523Z",
+  "fetchedAt": "2026-11-04T03:09:23.691Z",
   "teams": [
     {
       "id": "68b5d99c1348fa686c13b82e",
@@ -517,24 +517,6 @@
         "id": "68b5d99c1348fa686c13b7ac",
         "pid": 3678,
         "name": "מכבי עתלית צו פיוס",
-        "goals": null
-      }
-    },
-    {
-      "id": "6acc33149878872a9639e845",
-      "date": "2026-11-07T11:20:00.000Z",
-      "round": 2,
-      "finished": false,
-      "home": {
-        "id": "68b5d99c1348fa686c13b7d9",
-        "pid": 5444,
-        "name": "בני סכנין",
-        "goals": null
-      },
-      "away": {
-        "id": "68b5d99c1348fa686c13b87e",
-        "pid": 6543,
-        "name": "מכבי עספיא",
         "goals": null
       }
     },
@@ -1090,6 +1072,24 @@
         "id": "68b5d99c1348fa686c13b82e",
         "pid": 5906,
         "name": "הפועל עירוני כרמיאל",
+        "goals": null
+      }
+    },
+    {
+      "id": "6acc33149878872a9639e845",
+      "date": "2026-12-11T22:00:00.000Z",
+      "round": 2,
+      "finished": false,
+      "home": {
+        "id": "68b5d99c1348fa686c13b7d9",
+        "pid": 5444,
+        "name": "בני סכנין",
+        "goals": null
+      },
+      "away": {
+        "id": "68b5d99c1348fa686c13b87e",
+        "pid": 6543,
+        "name": "מכבי עספיא",
         "goals": null
       }
     },
