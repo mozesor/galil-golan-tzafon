@@ -98,6 +98,7 @@ a.btn{text-decoration:none}
     <div class="card">
       <h2>שם הקבוצה באתר</h2>
       <div class="row">
+        <div><label>תאריך (אם זז)</label><input data-f="date" inputmode="numeric" placeholder="YYYY-MM-DD" value="${esc(ov.date||"")}" /></div>
         <div><label for="displayName">שם מלא</label><input id="displayName" /></div>
         <div><label for="shortName">אות לסמל</label><input id="shortName" maxlength="2" /></div>
       </div>
@@ -225,6 +226,7 @@ function collect(){
   document.querySelectorAll("#games .game").forEach(el=>{
     const o={}; el.querySelectorAll("[data-f]").forEach(i=>{ const v=i.value.trim(); if(v) o[i.dataset.f]=v; });
     if(o.waze) okUrl(o.waze, el.querySelector(".t b")?.childNodes[0]?.textContent||"משחק");
+    if(o.date&&!/^\d{4}-\d{2}-\d{2}$/.test(o.date)) throw new Error("תאריך לא תקין: "+o.date+" (לדוגמה 2026-11-08)");
     if(o.time){ const m=/^(\d{1,2}):(\d{2})$/.exec(o.time); if(!m||+m[1]>23||+m[2]>59) throw new Error("שעה לא תקינה: "+o.time+" (לדוגמה 10:30)"); o.time=`${m[1].padStart(2,"0")}:${m[2]}`; }
     if(Object.keys(o).length) games[el.dataset.id]=o;
   });
