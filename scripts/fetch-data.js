@@ -153,6 +153,8 @@ async function main() {
       const cupApi = `${BASE}/api/leagues/rounds?league_id=${CONFIG.cupLeagueId}`;
       const cupBase = await fetchJson(cupApi);
       const cg = [];
+      // every game of the competition (all rounds), for the "all cup games" list on the cup tab
+      const all = [];
       let empty = 0;
       for (let n = 0; n <= 20; n++) {
         const gs = games(await fetchJson(`${cupApi}&round=${n}`));
@@ -160,17 +162,22 @@ async function main() {
         empty = 0;
         for (const raw of gs) {
           const g = normalizeGameBase(raw);
-          if (!ours(g)) continue;
-          g.cup = true;
           g.roundName = cleanName(raw?.round?.name) || `סיבוב ${g.round}`;
-          cg.push(g);
+          // slim copy (no mongo team ids) so data.json stays small on phones
+          const slim = (t) => ({ pid: t.pid, name: t.name, goals: t.goals });
+          all.push({ id: g.id, date: g.date, round: g.round, roundName: g.roundName, home: slim(g.home), away: slim(g.away) });
+          if (!ours(g)) continue;
+          cg.push({ ...g, cup: true });
         }
         await new Promise((r) => setTimeout(r, 100));
       }
       const prevCup = (previous0?.cup?.games || []).filter((g) => !g.manual);
       if (!cg.length && prevCup.length) { console.warn("cup came back empty, keeping previous cup games"); cg.push(...prevCup); }
-      cup = { id: CONFIG.cupLeagueId, name: String(cupBase?.league?.name || previous0?.cup?.name || "גביע").replace(/\s+/g, " ").trim(), games: cg.sort((a, b) => a.date.localeCompare(b.date)) };
-      console.log(`cup: ${cg.length} of our games`);
+      const prevAll = previous0?.cup?.all || [];
+      if (!all.length && prevAll.length) { console.warn("cup (all games) came back empty, keeping previous list"); all.push(...prevAll); }
+      const byDate = (a, b) => a.date.localeCompare(b.date) || String(a.id).localeCompare(String(b.id));
+      cup = { id: CONFIG.cupLeagueId, name: String(cupBase?.league?.name || previous0?.cup?.name || "גביע").replace(/\s+/g, " ").trim(), games: cg.sort(byDate), all: all.sort(byDate) };
+      console.log(`cup: ${cg.length} of our games, ${all.length} in total`);
     } catch (e) {
       console.warn("cup fetch failed, keeping previous cup data:", String(e));
       cup = previous0?.cup ? { ...previous0.cup, games: (previous0.cup.games || []).filter((g) => !g.manual) } : null;
@@ -183,8 +190,8 @@ async function main() {
     const ovr = JSON.parse(await fs.readFile(path.join(ROOT, "overrides.json"), "utf8"));
     const extras = Array.isArray(ovr?.extraGames) ? ovr.extraGames : [];
     const superseded = new Set();
-    const gnFIX = /^(?:מ\.כ\.?|מ\.ס\.?|מ\.ס|מ\.כ|ה\.|מועדון הכדורגל|מועדון כדורגל|מרכז קהילתי|איחוד|הפועל|הפ'|הפ׳|מכבי|בית"ר|בית״ר|ביתר|בני|עירוני|צעירי|מ\.א\.?)\s*/;
-    const core = (n) => { let s = cleanName(n).replace(/\s*["״]?צו פיוס["״]?\s*$/, "").trim(); for (let i = 0; i < 5; i++) { const t = s.replace(gnFIX, "").trim(); if (t === s || !t) break; s = t; } return s; };
+    const gdFIX = /^(?:מ\.כ\.?|מ\.ס\.?|מ\.ס|מ\.כ|ה\.|מועדון הכדורגל|מועדון כדורגל|מרכז קהילתי|איחוד|הפועל|הפ'|הפ׳|מכבי|בית"ר|בית״ר|ביתר|בני|עירוני|צעירי|מ\.א\.?)\s*/;
+    const core = (n) => { let s = cleanName(n).replace(/\s*["״]?צו פיוס["״]?\s*$/, "").trim(); for (let i = 0; i < 5; i++) { const t = s.replace(gdFIX, "").trim(); if (t === s || !t) break; s = t; } return s; };
     const isoOf = (d) => new Intl.DateTimeFormat("en-CA", { timeZone: "Asia/Jerusalem" }).format(new Date(d));
     const midnightIsrael = (iso) => { const noon = new Date(`${iso}T12:00:00Z`); const p = new Intl.DateTimeFormat("en-GB", { timeZone: "Asia/Jerusalem", hour12: false, hour: "2-digit" }).formatToParts(noon); const offset = (+p.find((x) => x.type === "hour").value % 24) - 12; return new Date(new Date(`${iso}T00:00:00Z`).getTime() - offset * 3600000).toISOString(); };
     for (const x of extras) {
