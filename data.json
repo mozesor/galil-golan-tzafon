@@ -11,7 +11,7 @@
     "name": "ליגת ילדים ב' חוף",
     "currentRound": 4
   },
-  "fetchedAt": "2026-11-14T16:08:23.072Z",
+  "fetchedAt": "2026-11-14T21:03:28.808Z",
   "teams": [
     {
       "id": "68b5d99c1348fa686c13b82e",
@@ -596,18 +596,18 @@
       "id": "6acc33149878872a9639e87a",
       "date": "2026-11-14T18:30:00.000Z",
       "round": 4,
-      "finished": false,
+      "finished": true,
       "home": {
         "id": "68b5d99c1348fa686c13b7ac",
         "pid": 3678,
         "name": "מכבי עתלית צו פיוס",
-        "goals": null
+        "goals": 3
       },
       "away": {
         "id": "68b5d99c1348fa686c13b8a9",
         "pid": 2150,
         "name": "הפועל עפולה",
-        "goals": null
+        "goals": 6
       }
     },
     {
@@ -5178,6 +5178,19 @@
     },
     {
       "rank": 12,
+      "id": "68b5d99c1348fa686c13b8a9",
+      "name": "הפועל עפולה",
+      "games": 3,
+      "wins": 1,
+      "draws": 1,
+      "losses": 1,
+      "gf": 10,
+      "ga": 10,
+      "gd": 0,
+      "points": 4
+    },
+    {
+      "rank": 13,
       "id": "68b5d99c1348fa686c13b7a7",
       "name": "הפ' בית שאן מסילות יהודה עיני צו פיוס",
       "games": 3,
@@ -5190,7 +5203,7 @@
       "points": 3
     },
     {
-      "rank": 13,
+      "rank": 14,
       "id": "68b5d99c1348fa686c13b845",
       "name": "הפועל קש",
       "games": 4,
@@ -5201,19 +5214,6 @@
       "ga": 17,
       "gd": -7,
       "points": 3
-    },
-    {
-      "rank": 14,
-      "id": "68b5d99c1348fa686c13b8a9",
-      "name": "הפועל עפולה",
-      "games": 2,
-      "wins": 0,
-      "draws": 1,
-      "losses": 1,
-      "gf": 4,
-      "ga": 7,
-      "gd": -3,
-      "points": 1
     },
     {
       "rank": 15,
@@ -5258,13 +5258,13 @@
       "rank": 18,
       "id": "68b5d99c1348fa686c13b7ac",
       "name": "מכבי עתלית צו פיוס",
-      "games": 2,
+      "games": 3,
       "wins": 0,
       "draws": 0,
-      "losses": 2,
-      "gf": 2,
-      "ga": 22,
-      "gd": -20,
+      "losses": 3,
+      "gf": 5,
+      "ga": 28,
+      "gd": -23,
       "points": 0
     },
     {
