@@ -11,7 +11,7 @@
     "name": "ליגת ילדים ב' חוף",
     "currentRound": 4
   },
-  "fetchedAt": "2026-11-15T05:03:30.007Z",
+  "fetchedAt": "2026-11-17T05:03:24.370Z",
   "teams": [
     {
       "id": "68b5d99c1348fa686c13b82e",
@@ -665,29 +665,6 @@
       }
     },
     {
-      "id": "6acc33149878872a9639e87c",
-      "date": "2026-11-20T22:00:00.000Z",
-      "round": 4,
-      "finished": false,
-      "home": {
-        "id": "68b5d99c1348fa686c13b7ad",
-        "pid": 3674,
-        "name": "מ.כ. גליל גולן צפון",
-        "goals": null
-      },
-      "away": {
-        "id": "68b5d99c1348fa686c13b82e",
-        "pid": 5906,
-        "name": "הפועל עירוני כרמיאל",
-        "goals": null
-      },
-      "ifa": {
-        "date": "2026-11-14",
-        "time": null,
-        "venue": null
-      }
-    },
-    {
       "id": "6acc33149878872a9639e867",
       "date": "2026-11-21T08:00:00.000Z",
       "round": 3,
@@ -1073,6 +1050,29 @@
         "pid": 6543,
         "name": "מכבי עספיא",
         "goals": null
+      }
+    },
+    {
+      "id": "6acc33149878872a9639e87c",
+      "date": "2026-12-11T22:00:00.000Z",
+      "round": 4,
+      "finished": false,
+      "home": {
+        "id": "68b5d99c1348fa686c13b7ad",
+        "pid": 3674,
+        "name": "מ.כ. גליל גולן צפון",
+        "goals": null
+      },
+      "away": {
+        "id": "68b5d99c1348fa686c13b82e",
+        "pid": 5906,
+        "name": "הפועל עירוני כרמיאל",
+        "goals": null
+      },
+      "ifa": {
+        "date": "2026-11-14",
+        "time": null,
+        "venue": null
       }
     },
     {
