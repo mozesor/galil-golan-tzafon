@@ -11,7 +11,7 @@
     "name": "ליגת ילדים ב' חוף",
     "currentRound": 4
   },
-  "fetchedAt": "2026-11-17T05:03:24.370Z",
+  "fetchedAt": "2026-11-17T19:03:37.213Z",
   "teams": [
     {
       "id": "68b5d99c1348fa686c13b82e",
@@ -614,18 +614,18 @@
       "id": "6acc33149878872a9639e87e",
       "date": "2026-11-17T15:00:00.000Z",
       "round": 4,
-      "finished": false,
+      "finished": true,
       "home": {
         "id": "68b5d99c1348fa686c13b8a3",
         "pid": 5012,
         "name": "הפועל מטה אשר צו פיוס",
-        "goals": null
+        "goals": 12
       },
       "away": {
         "id": "68ccd70d1b7b720e589fa269",
         "pid": 5194,
         "name": "הפועל מגדל העמק צו פיוס",
-        "goals": null
+        "goals": 2
       }
     },
     {
@@ -5035,6 +5035,19 @@
   "standings": [
     {
       "rank": 1,
+      "id": "68b5d99c1348fa686c13b8a3",
+      "name": "הפועל מטה אשר צו פיוס",
+      "games": 3,
+      "wins": 3,
+      "draws": 0,
+      "losses": 0,
+      "gf": 32,
+      "ga": 4,
+      "gd": 28,
+      "points": 9
+    },
+    {
+      "rank": 2,
       "id": "68b5d99c1348fa686c13b7a6",
       "name": "מ.כ הפועל גלבוע צו פיוס",
       "games": 3,
@@ -5047,7 +5060,7 @@
       "points": 9
     },
     {
-      "rank": 2,
+      "rank": 3,
       "id": "68ccd70d1b7b720e589fa2bd",
       "name": "אהלי טמרה",
       "games": 4,
@@ -5060,7 +5073,7 @@
       "points": 9
     },
     {
-      "rank": 3,
+      "rank": 4,
       "id": "68b5d99c1348fa686c13b882",
       "name": "הפועל חוף הכרמל / ממ 2 צו פיוס",
       "games": 3,
@@ -5073,7 +5086,7 @@
       "points": 7
     },
     {
-      "rank": 4,
+      "rank": 5,
       "id": "68b5d99c1348fa686c13b840",
       "name": "הפ' יוקנעם ארז צו פיוס",
       "games": 4,
@@ -5084,19 +5097,6 @@
       "ga": 10,
       "gd": 2,
       "points": 7
-    },
-    {
-      "rank": 5,
-      "id": "68b5d99c1348fa686c13b8a3",
-      "name": "הפועל מטה אשר צו פיוס",
-      "games": 2,
-      "wins": 2,
-      "draws": 0,
-      "losses": 0,
-      "gf": 20,
-      "ga": 2,
-      "gd": 18,
-      "points": 6
     },
     {
       "rank": 6,
@@ -5243,19 +5243,6 @@
     },
     {
       "rank": 17,
-      "id": "68ccd70d1b7b720e589fa269",
-      "name": "הפועל מגדל העמק צו פיוס",
-      "games": 2,
-      "wins": 0,
-      "draws": 0,
-      "losses": 2,
-      "gf": 3,
-      "ga": 20,
-      "gd": -17,
-      "points": 0
-    },
-    {
-      "rank": 18,
       "id": "68b5d99c1348fa686c13b7ac",
       "name": "מכבי עתלית צו פיוס",
       "games": 3,
@@ -5265,6 +5252,19 @@
       "gf": 5,
       "ga": 28,
       "gd": -23,
+      "points": 0
+    },
+    {
+      "rank": 18,
+      "id": "68ccd70d1b7b720e589fa269",
+      "name": "הפועל מגדל העמק צו פיוס",
+      "games": 3,
+      "wins": 0,
+      "draws": 0,
+      "losses": 3,
+      "gf": 5,
+      "ga": 32,
+      "gd": -27,
       "points": 0
     },
     {
