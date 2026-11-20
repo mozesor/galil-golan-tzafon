@@ -11,7 +11,7 @@
     "name": "ליגת ילדים ב' חוף",
     "currentRound": 2
   },
-  "fetchedAt": "2026-11-20T12:53:23.518Z",
+  "fetchedAt": "2026-11-20T13:18:28.549Z",
   "teams": [
     {
       "id": "68b5d99c1348fa686c13b82e",
@@ -650,18 +650,18 @@
       "id": "6acc33149878872a9639e851",
       "date": "2026-11-20T11:00:00.000Z",
       "round": 2,
-      "finished": false,
+      "finished": true,
       "home": {
         "id": "68b5d99c1348fa686c13b7ac",
         "pid": 3678,
         "name": "מכבי עתלית צו פיוס",
-        "goals": null
+        "goals": 0
       },
       "away": {
         "id": "68ccd70d1b7b720e589fa269",
         "pid": 5194,
         "name": "הפועל מגדל העמק צו פיוס",
-        "goals": null
+        "goals": 3
       }
     },
     {
@@ -5217,6 +5217,19 @@
     },
     {
       "rank": 15,
+      "id": "68ccd70d1b7b720e589fa269",
+      "name": "הפועל מגדל העמק צו פיוס",
+      "games": 4,
+      "wins": 1,
+      "draws": 0,
+      "losses": 3,
+      "gf": 8,
+      "ga": 32,
+      "gd": -24,
+      "points": 3
+    },
+    {
+      "rank": 16,
       "id": "68b5d99c1348fa686c13b87e",
       "name": "מכבי עספיא",
       "games": 1,
@@ -5229,7 +5242,7 @@
       "points": 0
     },
     {
-      "rank": 16,
+      "rank": 17,
       "id": "68ccd7061b7b720e589f9e2a",
       "name": "הפועל מ.א. משגב צו פיוס",
       "games": 3,
@@ -5242,29 +5255,16 @@
       "points": 0
     },
     {
-      "rank": 17,
+      "rank": 18,
       "id": "68b5d99c1348fa686c13b7ac",
       "name": "מכבי עתלית צו פיוס",
-      "games": 3,
+      "games": 4,
       "wins": 0,
       "draws": 0,
-      "losses": 3,
+      "losses": 4,
       "gf": 5,
-      "ga": 28,
-      "gd": -23,
-      "points": 0
-    },
-    {
-      "rank": 18,
-      "id": "68ccd70d1b7b720e589fa269",
-      "name": "הפועל מגדל העמק צו פיוס",
-      "games": 3,
-      "wins": 0,
-      "draws": 0,
-      "losses": 3,
-      "gf": 5,
-      "ga": 32,
-      "gd": -27,
+      "ga": 31,
+      "gd": -26,
       "points": 0
     },
     {
