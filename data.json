@@ -11,7 +11,7 @@
     "name": "ליגת ילדים ב' חוף",
     "currentRound": 2
   },
-  "fetchedAt": "2026-11-20T12:48:25.167Z",
+  "fetchedAt": "2026-11-20T12:53:23.518Z",
   "teams": [
     {
       "id": "68b5d99c1348fa686c13b82e",
@@ -632,18 +632,18 @@
       "id": "6acc33149878872a9639e858",
       "date": "2026-11-20T10:00:00.000Z",
       "round": 3,
-      "finished": false,
+      "finished": true,
       "home": {
         "id": "68b5d99c1348fa686c13b8a3",
         "pid": 5012,
         "name": "הפועל מטה אשר צו פיוס",
-        "goals": null
+        "goals": 2
       },
       "away": {
         "id": "68b5d99c1348fa686c13b812",
         "pid": 6161,
         "name": "ביתר נהריה צו פיוס",
-        "goals": null
+        "goals": 4
       }
     },
     {
