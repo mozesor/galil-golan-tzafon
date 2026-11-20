@@ -12,3 +12,7 @@ id = "cea4f743f6b0413d91e7524b990783bc"
 ALLOWED_ORIGIN = "https://mozesor.github.io"
 VAPID_SUBJECT = "mailto:mozesor@gmail.com"
 SITE_URL = "https://mozesor.github.io/galil-golan-tzafon/"
+
+# 20/11/2026: drains the delivery queue (at most 40 pushes per run, free-plan subrequest limit)
+[triggers]
+crons = ["*/10 * * * *"]
