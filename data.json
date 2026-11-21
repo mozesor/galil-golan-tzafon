@@ -11,7 +11,7 @@
     "name": "ליגת ילדים ב' חוף",
     "currentRound": 2
   },
-  "fetchedAt": "2026-11-21T12:18:25.404Z",
+  "fetchedAt": "2026-11-21T12:58:26.255Z",
   "teams": [
     {
       "id": "68b5d99c1348fa686c13b82e",
@@ -8855,13 +8855,14 @@
         "home": {
           "pid": 2849,
           "name": "הפועל כפס אור",
-          "goals": null
+          "goals": 2
         },
         "away": {
           "pid": 4186,
           "name": "מ.כ. נהלל יזרעאל",
-          "goals": null
-        }
+          "goals": 1
+        },
+        "unofficial": true
       },
       {
         "id": "6ae2ab77e10656c9d244d209",
