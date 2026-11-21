@@ -11,7 +11,7 @@
     "name": "ליגת ילדים ב' חוף",
     "currentRound": 2
   },
-  "fetchedAt": "2026-11-20T13:18:28.549Z",
+  "fetchedAt": "2026-11-21T12:18:25.404Z",
   "teams": [
     {
       "id": "68b5d99c1348fa686c13b82e",
@@ -668,18 +668,18 @@
       "id": "6acc33149878872a9639e867",
       "date": "2026-11-21T08:00:00.000Z",
       "round": 3,
-      "finished": false,
+      "finished": true,
       "home": {
         "id": "68b5d99c1348fa686c13b87e",
         "pid": 6543,
         "name": "מכבי עספיא",
-        "goals": null
+        "goals": 0
       },
       "away": {
         "id": "68b5d99c1348fa686c13b888",
         "pid": 6896,
         "name": "מ.ס. חיפה רובי שפירא",
-        "goals": null
+        "goals": 8
       }
     },
     {
