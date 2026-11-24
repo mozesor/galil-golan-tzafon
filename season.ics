@@ -18,6 +18,16 @@ LOCATION:צפת
 DESCRIPTION:גביע\, סיבוב א
 END:VEVENT
 BEGIN:VEVENT
+UID:6acc33149878872a9639e82e@galil-golan-tzafon
+DTSTAMP:20260101T000000Z
+SUMMARY:⚽ גליל גולן צפון נגד ביתר נהריה 3:2 (בי
+ ת)
+DTSTART:20261019T143000Z
+DTEND:20261019T160000Z
+LOCATION:צפת
+DESCRIPTION:מחזור 1
+END:VEVENT
+BEGIN:VEVENT
 UID:6ad56e475239c8925a114c4c@galil-golan-tzafon
 DTSTAMP:20260101T000000Z
 SUMMARY:🏆 גביע: גליל גולן צפון נגד מכבי צור ש
@@ -26,5 +36,303 @@ DTSTART:20261028T180000Z
 DTEND:20261028T193000Z
 LOCATION:צפת
 DESCRIPTION:גביע\, סיבוב ב
+END:VEVENT
+BEGIN:VEVENT
+UID:6acc33149878872a9639e854@galil-golan-tzafon
+DTSTAMP:20260101T000000Z
+SUMMARY:⚽ גליל גולן צפון נגד הפועל מטה אשר 2:6 
+ (בית)
+DTSTART:20261030T090000Z
+DTEND:20261030T103000Z
+LOCATION:צפת
+DESCRIPTION:מחזור 2
+END:VEVENT
+BEGIN:VEVENT
+UID:6acc33149878872a9639e85a@galil-golan-tzafon
+DTSTAMP:20260101T000000Z
+SUMMARY:⚽ גליל גולן צפון נגד הפועל מגדל העמק 
+ 9:1 (חוץ)
+DTSTART:20261103T171500Z
+DTEND:20261103T184500Z
+DESCRIPTION:מחזור 3
+END:VEVENT
+BEGIN:VEVENT
+UID:6acc33149878872a9639e886@galil-golan-tzafon
+DTSTAMP:20260101T000000Z
+SUMMARY:⚽ גליל גולן צפון נגד הפועל עפולה (חוץ
+ )
+DTSTART:20261128T090000Z
+DTEND:20261128T103000Z
+LOCATION:עפולה סינטטי
+DESCRIPTION:מחזור 5
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:משחק בעוד שעתיים
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:6acc33149878872a9639e8a4@galil-golan-tzafon
+DTSTAMP:20260101T000000Z
+SUMMARY:⚽ גליל גולן צפון נגד מכבי צור שלום ק. 
+ ביאליק (בית) | מועד משוער
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+LOCATION:צפת
+DESCRIPTION:מחזור 6\nמועד משוער: השעה טרם פורסמה
+  והיום עוד יכול לזוז. היומן יתעדכן לבד
+END:VEVENT
+BEGIN:VEVENT
+UID:6acc33149878872a9639e87c@galil-golan-tzafon
+DTSTAMP:20260101T000000Z
+SUMMARY:⚽ גליל גולן צפון נגד הפועל עירוני כר
+ מיאל (בית) | מועד משוער
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+LOCATION:צפת
+DESCRIPTION:מחזור 4\nמועד משוער: השעה טרם פורסמה
+  והיום עוד יכול לזוז. היומן יתעדכן לבד\nלפ
+ י אתר ההתאחדות: המשחק נדחה משבת 14/11 לשבת 21
+ /11. השעה והמגרש יפורסמו בהמשך.
+END:VEVENT
+BEGIN:VEVENT
+UID:6acc33149878872a9639e8b1@galil-golan-tzafon
+DTSTAMP:20260101T000000Z
+SUMMARY:⚽ גליל גולן צפון נגד הפועל מ.א. משגב (
+ חוץ) | מועד משוער
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+DESCRIPTION:מחזור 7\nמועד משוער: השעה טרם פורסמה
+  והיום עוד יכול לזוז. היומן יתעדכן לבד
+END:VEVENT
+BEGIN:VEVENT
+UID:6acc33149878872a9639e8cd@galil-golan-tzafon
+DTSTAMP:20260101T000000Z
+SUMMARY:⚽ גליל גולן צפון נגד הפועל גלבוע (בית
+ ) | מועד משוער
+DTSTART;VALUE=DATE:20261226
+DTEND;VALUE=DATE:20261227
+LOCATION:צפת
+DESCRIPTION:מחזור 8\nמועד משוער: השעה טרם פורסמה
+  והיום עוד יכול לזוז. היומן יתעדכן לבד
+END:VEVENT
+BEGIN:VEVENT
+UID:6acc33149878872a9639e8de@galil-golan-tzafon
+DTSTAMP:20260101T000000Z
+SUMMARY:⚽ גליל גולן צפון נגד מכבי עספיא (חוץ) 
+ | מועד משוער
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270110
+DESCRIPTION:מחזור 9\nמועד משוער: השעה טרם פורסמה
+  והיום עוד יכול לזוז. היומן יתעדכן לבד
+END:VEVENT
+BEGIN:VEVENT
+UID:6acc33149878872a9639e8f4@galil-golan-tzafon
+DTSTAMP:20260101T000000Z
+SUMMARY:⚽ גליל גולן צפון נגד הפועל קש (בית) | מ
+ ועד משוער
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+LOCATION:צפת
+DESCRIPTION:מחזור 10\nמועד משוער: השעה טרם פורסמ
+ ה והיום עוד יכול לזוז. היומן יתעדכן לבד
+END:VEVENT
+BEGIN:VEVENT
+UID:6acc33149878872a9639e909@galil-golan-tzafon
+DTSTAMP:20260101T000000Z
+SUMMARY:⚽ גליל גולן צפון נגד הפ׳ רמות מנשה מג
+ ידו (חוץ) | מועד משוער
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+DESCRIPTION:מחזור 11\nמועד משוער: השעה טרם פורסמ
+ ה והיום עוד יכול לזוז. היומן יתעדכן לבד
+END:VEVENT
+BEGIN:VEVENT
+UID:6acc33149878872a9639e91d@galil-golan-tzafon
+DTSTAMP:20260101T000000Z
+SUMMARY:⚽ גליל גולן צפון נגד אהלי טמרה (בית) | 
+ מועד משוער
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+LOCATION:צפת
+DESCRIPTION:מחזור 12\nמועד משוער: השעה טרם פורסמ
+ ה והיום עוד יכול לזוז. היומן יתעדכן לבד
+END:VEVENT
+BEGIN:VEVENT
+UID:6acc33149878872a9639e934@galil-golan-tzafon
+DTSTAMP:20260101T000000Z
+SUMMARY:⚽ גליל גולן צפון נגד בני סכנין (חוץ) | 
+ מועד משוער
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+DESCRIPTION:מחזור 13\nמועד משוער: השעה טרם פורסמ
+ ה והיום עוד יכול לזוז. היומן יתעדכן לבד
+END:VEVENT
+BEGIN:VEVENT
+UID:6acc33159878872a9639e946@galil-golan-tzafon
+DTSTAMP:20260101T000000Z
+SUMMARY:⚽ גליל גולן צפון נגד חיפה רובי שפירא 
+ (בית) | מועד משוער
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+LOCATION:צפת
+DESCRIPTION:מחזור 14\nמועד משוער: השעה טרם פורסמ
+ ה והיום עוד יכול לזוז. היומן יתעדכן לבד
+END:VEVENT
+BEGIN:VEVENT
+UID:6acc33159878872a9639e960@galil-golan-tzafon
+DTSTAMP:20260101T000000Z
+SUMMARY:⚽ גליל גולן צפון נגד הפ׳ בית שאן מסיל
+ ות יהודה עיני (חוץ) | מועד משוער
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+DESCRIPTION:מחזור 15\nמועד משוער: השעה טרם פורסמ
+ ה והיום עוד יכול לזוז. היומן יתעדכן לבד
+END:VEVENT
+BEGIN:VEVENT
+UID:6acc33159878872a9639e98c@galil-golan-tzafon
+DTSTAMP:20260101T000000Z
+SUMMARY:⚽ גליל גולן צפון נגד הפ׳ יוקנעם ארז (
+ חוץ) | מועד משוער
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+DESCRIPTION:מחזור 17\nמועד משוער: השעה טרם פורסמ
+ ה והיום עוד יכול לזוז. היומן יתעדכן לבד
+END:VEVENT
+BEGIN:VEVENT
+UID:6adab3d4bc1366b026ad1064@galil-golan-tzafon
+DTSTAMP:20260101T000000Z
+SUMMARY:⚽ גליל גולן צפון נגד ביתר נהריה (חוץ) 
+ | מועד משוער
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+DESCRIPTION:מחזור 18\nמועד משוער: השעה טרם פורסמ
+ ה והיום עוד יכול לזוז. היומן יתעדכן לבד
+END:VEVENT
+BEGIN:VEVENT
+UID:6adab3d4bc1366b026ad1076@galil-golan-tzafon
+DTSTAMP:20260101T000000Z
+SUMMARY:⚽ גליל גולן צפון נגד הפועל מטה אשר (ח
+ וץ) | מועד משוער
+DTSTART;VALUE=DATE:20270327
+DTEND;VALUE=DATE:20270328
+DESCRIPTION:מחזור 19\nמועד משוער: השעה טרם פורסמ
+ ה והיום עוד יכול לזוז. היומן יתעדכן לבד
+END:VEVENT
+BEGIN:VEVENT
+UID:6adab3d4bc1366b026ad107a@galil-golan-tzafon
+DTSTAMP:20260101T000000Z
+SUMMARY:⚽ גליל גולן צפון נגד הפועל מגדל העמק 
+ (בית) | מועד משוער
+DTSTART;VALUE=DATE:20270403
+DTEND;VALUE=DATE:20270404
+LOCATION:צפת
+DESCRIPTION:מחזור 20\nמועד משוער: השעה טרם פורסמ
+ ה והיום עוד יכול לזוז. היומן יתעדכן לבד
+END:VEVENT
+BEGIN:VEVENT
+UID:6adab3d4bc1366b026ad108b@galil-golan-tzafon
+DTSTAMP:20260101T000000Z
+SUMMARY:⚽ גליל גולן צפון נגד הפועל עירוני כר
+ מיאל (חוץ) | מועד משוער
+DTSTART;VALUE=DATE:20270406
+DTEND;VALUE=DATE:20270407
+DESCRIPTION:מחזור 21\nמועד משוער: השעה טרם פורסמ
+ ה והיום עוד יכול לזוז. היומן יתעדכן לבד
+END:VEVENT
+BEGIN:VEVENT
+UID:6adab3d5bc1366b026ad1090@galil-golan-tzafon
+DTSTAMP:20260101T000000Z
+SUMMARY:⚽ גליל גולן צפון נגד הפועל עפולה (בית
+ ) | מועד משוער
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270411
+LOCATION:צפת
+DESCRIPTION:מחזור 22\nמועד משוער: השעה טרם פורסמ
+ ה והיום עוד יכול לזוז. היומן יתעדכן לבד
+END:VEVENT
+BEGIN:VEVENT
+UID:6adab3d5bc1366b026ad109f@galil-golan-tzafon
+DTSTAMP:20260101T000000Z
+SUMMARY:⚽ גליל גולן צפון נגד מכבי צור שלום ק. 
+ ביאליק (חוץ) | מועד משוער
+DTSTART;VALUE=DATE:20270417
+DTEND;VALUE=DATE:20270418
+DESCRIPTION:מחזור 23\nמועד משוער: השעה טרם פורסמ
+ ה והיום עוד יכול לזוז. היומן יתעדכן לבד
+END:VEVENT
+BEGIN:VEVENT
+UID:6adab3d5bc1366b026ad10a6@galil-golan-tzafon
+DTSTAMP:20260101T000000Z
+SUMMARY:⚽ גליל גולן צפון נגד הפועל מ.א. משגב (
+ בית) | מועד משוער
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270425
+LOCATION:צפת
+DESCRIPTION:מחזור 24\nמועד משוער: השעה טרם פורסמ
+ ה והיום עוד יכול לזוז. היומן יתעדכן לבד
+END:VEVENT
+BEGIN:VEVENT
+UID:6adab3d5bc1366b026ad10b3@galil-golan-tzafon
+DTSTAMP:20260101T000000Z
+SUMMARY:⚽ גליל גולן צפון נגד הפועל גלבוע (חוץ
+ ) | מועד משוער
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+DESCRIPTION:מחזור 25\nמועד משוער: השעה טרם פורסמ
+ ה והיום עוד יכול לזוז. היומן יתעדכן לבד
+END:VEVENT
+BEGIN:VEVENT
+UID:6adab3d5bc1366b026ad10bc@galil-golan-tzafon
+DTSTAMP:20260101T000000Z
+SUMMARY:⚽ גליל גולן צפון נגד מכבי עספיא (בית) 
+ | מועד משוער
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+LOCATION:צפת
+DESCRIPTION:מחזור 26\nמועד משוער: השעה טרם פורסמ
+ ה והיום עוד יכול לזוז. היומן יתעדכן לבד
+END:VEVENT
+BEGIN:VEVENT
+UID:6adab3d5bc1366b026ad10c7@galil-golan-tzafon
+DTSTAMP:20260101T000000Z
+SUMMARY:⚽ גליל גולן צפון נגד הפועל קש (חוץ) | מ
+ ועד משוער
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+DESCRIPTION:מחזור 27\nמועד משוער: השעה טרם פורסמ
+ ה והיום עוד יכול לזוז. היומן יתעדכן לבד
+END:VEVENT
+BEGIN:VEVENT
+UID:6adab3d5bc1366b026ad10d2@galil-golan-tzafon
+DTSTAMP:20260101T000000Z
+SUMMARY:⚽ גליל גולן צפון נגד הפ׳ רמות מנשה מג
+ ידו (בית) | מועד משוער
+DTSTART;VALUE=DATE:20270518
+DTEND;VALUE=DATE:20270519
+LOCATION:צפת
+DESCRIPTION:מחזור 28\nמועד משוער: השעה טרם פורסמ
+ ה והיום עוד יכול לזוז. היומן יתעדכן לבד
+END:VEVENT
+BEGIN:VEVENT
+UID:6adab3d5bc1366b026ad10db@galil-golan-tzafon
+DTSTAMP:20260101T000000Z
+SUMMARY:⚽ גליל גולן צפון נגד אהלי טמרה (חוץ) | 
+ מועד משוער
+DTSTART;VALUE=DATE:20270522
+DTEND;VALUE=DATE:20270523
+DESCRIPTION:מחזור 29\nמועד משוער: השעה טרם פורסמ
+ ה והיום עוד יכול לזוז. היומן יתעדכן לבד
+END:VEVENT
+BEGIN:VEVENT
+UID:6adab3d5bc1366b026ad10e8@galil-golan-tzafon
+DTSTAMP:20260101T000000Z
+SUMMARY:⚽ גליל גולן צפון נגד בני סכנין (בית) | 
+ מועד משוער
+DTSTART;VALUE=DATE:20270529
+DTEND;VALUE=DATE:20270530
+LOCATION:צפת
+DESCRIPTION:מחזור 30\nמועד משוער: השעה טרם פורסמ
+ ה והיום עוד יכול לזוז. היומן יתעדכן לבד
 END:VEVENT
 END:VCALENDAR
