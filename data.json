@@ -16,7 +16,7 @@
     "name": "ליגת ילדים ב' חוף",
     "currentRound": 5
   },
-  "fetchedAt": "2026-11-25T19:18:23.847Z",
+  "fetchedAt": "2026-11-26T02:45:08.207Z",
   "teams": [
     {
       "id": "68b5d99c1348fa686c13b82e",
@@ -711,15 +711,15 @@
       "round": 5,
       "finished": false,
       "home": {
-        "id": "68b5d99c1348fa686c13b82e",
-        "pid": 5906,
-        "name": "הפועל עירוני כרמיאל",
-        "goals": null
-      },
-      "away": {
         "id": "68b5d99c1348fa686c13b8a3",
         "pid": 5012,
         "name": "הפועל מטה אשר צו פיוס",
+        "goals": null
+      },
+      "away": {
+        "id": "68b5d99c1348fa686c13b82e",
+        "pid": 5906,
+        "name": "הפועל עירוני כרמיאל",
         "goals": null
       }
     },
@@ -3602,15 +3602,15 @@
       "round": 22,
       "finished": false,
       "home": {
-        "id": "68b5d99c1348fa686c13b8a3",
-        "pid": 5012,
-        "name": "הפועל מטה אשר צו פיוס",
-        "goals": null
-      },
-      "away": {
         "id": "68b5d99c1348fa686c13b82e",
         "pid": 5906,
         "name": "הפועל עירוני כרמיאל",
+        "goals": null
+      },
+      "away": {
+        "id": "68b5d99c1348fa686c13b8a3",
+        "pid": 5012,
+        "name": "הפועל מטה אשר צו פיוס",
         "goals": null
       }
     },
